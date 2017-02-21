@@ -129,6 +129,20 @@ img {
   padding: 40px 20px;
 }
 
+footer {
+  background: #262626;
+  height: 130px;
+}
+
+footer p {
+  color: white;
+}
+
+footer a:hover {
+  cursor: pointer;
+  color: red;
+}
+
 
 /* ==========================================================================
    HEADER & HERO
@@ -201,6 +215,12 @@ nav a:hover {
   display: block;
   clear: both;
 }
+
+#what {
+  text-align: right;
+}
+
+
 
 /* ==========================================================================
    GRID SYSTEM
